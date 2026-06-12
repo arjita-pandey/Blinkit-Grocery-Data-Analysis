@@ -48,6 +48,14 @@ Below are the live interface captures from the compiled tracking model applicati
 </p>
 
 ---
+## 🚀 Local Deployment Instructions
 
+### Prerequisites
+* Microsoft Power BI Desktop installed on a local execution system context.
+
+### Setup Context
+1. Replicate this tracking repository locally on your computer:
+```bash
+   git clone [https://github.com/2VlShAlv1/Data-Cleaning-using-Python.git](https://github.com/2VlShAlv1/Data-Cleaning-using-Python.git)
 ```bash
    git clone [https://github.com/2VlShAlv1/Data-Cleaning-using-Python.git](https://github.com/2VlShAlv1/Data-Cleaning-using-Python.git)
