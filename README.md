@@ -52,4 +52,8 @@ could help with business decisions.
 ## ▶️ How to run this locally
 
 **Prerequisites:** Power BI Desktop installed
-
+**Steps:**
+```bash
+git clone https://github.com/ArJiTa11-io/Blinkit-Grocery-Data-Analysis.git
+```
+Then open the `.pbix` file in Power BI Desktop.
