@@ -53,8 +53,3 @@ could help with business decisions.
 
 **Prerequisites:** Power BI Desktop installed
 
-**Steps:**
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-```
-Then open the `.pbix` file in Power BI Desktop.
